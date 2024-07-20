@@ -128,3 +128,33 @@
 .content-cont a:hover {
   text-decoration: underline;
 }
+
+@media (max-width: 1200px) {
+  .App {
+    height: 100%;
+  }
+
+  .app-cont {
+    flex-direction: column;
+    height: 100%;
+  }
+
+  .nav {
+    width: 100%;
+  }
+
+  .content-cont {
+    width: 100%;
+  }
+}
+
+@media (max-width: 600px) {
+  img {
+    width: 60%;
+  }
+
+  .app-cont {
+    padding: 1em;
+    margin: 1em;
+  }
+}
