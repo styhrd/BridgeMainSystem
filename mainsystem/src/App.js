@@ -13,7 +13,7 @@ function App() {
       <div className='app-cont'>
         <div className='nav'>
           <Welcome />
-          <button onClick={() => setActivePage('Who')}>Who Are We</button>
+          <button onClick={() => setActivePage('Who')}>Who Are cWe</button>
           <button onClick={() => setActivePage('SystemLinks')}>System Links</button>
           <button onClick={() => setActivePage('ContactInfo')}>Contact Info</button>
         </div>
