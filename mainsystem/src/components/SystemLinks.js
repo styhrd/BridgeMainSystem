@@ -12,10 +12,16 @@ const SystemLinks = () => {
                     </a>
                 </li>
                 <li>
-                    <strong>Project Management:</strong> N/A
+                    <strong>Project Management:</strong>
+                    <a href="https://intern-projmgt-main.vercel.app/signin" target="_blank" rel="noopener noreferrer">
+                        Redirect to System
+                    </a>
                 </li>
                 <li>
-                    <strong>Income and Expenses Management System:</strong> N/A
+                    <strong>Income and Expenses Management System:</strong>
+                    <a href="https://mernfront-1-qftk.onrender.com" target="_blank" rel="noopener noreferrer">
+                        Redirect to System
+                    </a>
                 </li>
                 <li>
                     <strong>On-Boarding Management System:</strong>
